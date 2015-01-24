@@ -1,0 +1,15 @@
+AW,7
+FC,3
+QF,5
+NX,3
+CW,2
+WJ,5
+PF,3
+FA,3
+XF,3
+WZ,5
+RV,4
+HP,2
+PO,3
+FO,3
+XP,2
